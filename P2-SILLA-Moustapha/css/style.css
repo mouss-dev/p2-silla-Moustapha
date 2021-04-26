@@ -1,0 +1,536 @@
+body{
+	width: 90% ;
+	margin: 50px;
+	font-family: 'Raleway', sans-serif;
+}
+.header .navbar .logo{
+
+	float: left;
+	margin-top: 37px;
+}
+
+.header .navbar .menu{
+	float: right;
+	margin-top: 34px;
+}
+
+.header .navbar .menu ul{
+	list-style: none;
+}
+
+.header .navbar .menu ul li{
+	display: inline-block;
+	margin: 10px;
+	
+}
+.header .navbar .menu ul li a{
+	color: #000000;
+	text-decoration: none;
+}
+
+.clearfix{
+	clear: both;
+}
+
+.T2 {
+	font-size: 10px;
+	
+}
+
+.T2 {
+	line-height: 6px;
+	color:#989898;
+}
+.T1{
+	line-height: 20px;
+	margin-left: 30px;
+}
+.logo{
+	line-height: 90px;
+	margin-left: 30px;
+}
+
+.searchbox{
+	width: 100%;
+	padding: 20px;
+	margin-left: 20px;
+		
+	
+
+
+}
+
+.box{
+
+padding: 9px;
+border: none;
+font-size: 18px;
+border-radius: 10px 0 0 10px;
+text-align:center ;
+
+
+
+
+}
+
+.boutton {
+
+	padding: 15px;
+	border: none;
+	font-size: 9px;
+	color: rgb(226, 226, 236);
+	border-radius: 0 10px 10px 0;
+	position: absolute;
+	background: mediumblue;
+	cursor: pointer;
+	text-transform: uppercase;
+	
+	
+}
+
+.boutton1{
+
+	padding: 15px;
+	border: none;
+	font-size: 8px;
+	color: transparent;
+	border-radius:  10px 0 0 10px;
+	position: absolute;
+	background: rgb(88, 88, 92);
+	cursor: pointer;
+	background:url(..//img/search/gps.png)  ;
+	
+	
+	
+}
+
+.baniére{
+	display: flex;
+	size: 700px;
+	width: 1000px;
+	justify-content: space-evenly;
+	margin-left: 20px;
+	margin-top: 30px;
+
+}
+
+
+
+.nav{
+	border: solid 1px;
+	width: 200px;
+	margin-bottom: 20px;
+	text-align: left;
+	border-radius : 60px 60px 60px 60px ;
+	
+
+	
+	
+}
+.fas {
+	color: #0065FC;
+	
+	
+	
+	
+	
+}
+.info{
+	margin: 30px;
+	;
+}
+
+ .fa-info-circle{
+
+	color: white;
+	background-color:#0065FC;
+	border-radius: 10px;
+	margin: 10px;
+
+ }
+	
+
+
+
+.container{
+	
+	width: 1200px;
+	height: 880px;
+	border: solid;
+	display: flex;
+	flex-direction: row;
+	
+}
+
+
+
+.populaire{
+
+	background:#F2F2F2 ;
+	
+	width: 390px;
+	height: 800px;
+	border-radius: 10px;
+	
+
+}
+.popu{
+
+	margin-top: 50px;
+	margin-left: 22px;
+
+
+}
+
+
+
+.Marseille{
+	background:#F2F2F2 ;
+	
+	
+	width: 690px;
+	height:  760px;
+	border-radius: 10px;
+	
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around ;
+	border: solid red;
+	padding-top: 35px;
+	
+	
+}
+
+
+
+	
+.cannebiere{
+	
+	background: white;
+	
+	border-radius: 10px;
+	
+	width: 210px;
+	height: 190px;
+	margin-bottom:80px ;
+	
+	
+	
+	
+	
+}
+
+
+
+.soleil{
+	background: white;
+	
+	border-radius: 10px;
+	margin: 10px;
+	width: 340px;
+	height: 145px;
+	margin-bottom:80px ;
+	margin-left: 20px;
+	margin-top: 25px;
+	
+
+}
+
+
+
+.Hôtel{
+	
+	width: 210px;
+	height:90px ;
+	border-radius:10px 10px 0px 0;
+	
+}
+
+
+
+.Hôtel1{
+	
+	width: 180px;
+	height:135px ;
+	border-radius:10px 0px 0px 10px;
+	float: left;
+	
+	
+}
+
+
+
+.boxx{
+	
+	width: 1200px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around ;
+	border:teal solid;
+	
+	
+}
+
+
+.heber{
+	width: 700px;
+	margin-left: 17px;
+	 
+}
+
+
+
+.lienH{
+	margin-right: 80%; 
+	margin-bottom: 290px;
+	
+
+}
+
+figure{
+	border-radius: 10px;
+	border: outset 0.1px;
+	width: 220px;
+	height: 400px; 
+	
+	
+	
+}
+.fig{
+	
+	height:120px ;
+	margin-left: ;
+	margin-bottom: 40px; 
+	
+
+}
+
+
+.fig1{
+
+	padding: 1px;
+	height: 200px;
+	margin-left: ;
+	margin-top: 25px;
+
+}
+
+
+
+
+.Gfig{
+
+	width: 220px;
+	height: 370px;
+	border-radius: 10px 10px 0 0;
+	
+
+}
+
+.Pfig{
+
+	width: 220px;
+	height: 90px;
+	border-radius: 10px 10px 0 0;
+	
+	
+	
+}
+
+.Pfig1{
+
+	width: 220px;
+	height: 170px;
+	border-radius: 10px 10px 0 0;
+	
+	
+	
+}
+
+
+
+.Bleft{
+	border: solid;
+	display: flex ;
+	flex-direction:column ;
+	flex-wrap:wrap ;
+	
+	
+	
+	
+	
+	
+	width: 1200px;
+	height: 500px;
+	
+}
+
+.foot{
+
+	border: solid;
+	background:#F2F2F2 ;
+	display: flex;
+	flex-direction: row;
+	width: 1200px;
+	height: 200px;
+	justify-content:space-between;
+	
+
+}
+
+.info0{
+
+	border: solid #0065FC;
+	width: 220px;
+	
+
+}
+
+.info1{
+
+	border: solid #0065FC;
+	width: 160px;
+	margin-right: 200px;
+	
+
+}
+
+
+.info2 {
+
+	border: solid #0065FC;
+	width: 130px;
+	margin-right: 250px;
+	
+	
+
+}
+
+a {
+
+	text-decoration: none;
+	color: #000000;
+	
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+}
